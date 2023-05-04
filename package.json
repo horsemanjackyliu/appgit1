@@ -114,7 +114,7 @@
         "model": "srv/external/API_SALES_ORDER_SRV",
         "credentials": {
           "[production]": {
-            "destination": "appgit1-API_SALES_ORDER_SRV",
+            "destination": "OVPSO",
             "path": "s4hanacloud/sap/opu/odata/sap/API_SALES_ORDER_SRV"
           },
           "[development]": {
